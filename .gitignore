@@ -1,0 +1,5 @@
+# jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# environments
+lexo_env 
